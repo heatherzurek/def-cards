@@ -35,6 +35,26 @@ body {
   display: none;
 }
 
+#chaining-def {
+  display: none;
+}
+
+#boolean-def {
+  display: none;
+}
+
+#assignop-def {
+  display: none;
+}
+
+#compop-def {
+  display: none;
+}
+
+#concat-def {
+  display: none;
+}
+
 #method-def {
   display: none;
 }

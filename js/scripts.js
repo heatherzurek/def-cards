@@ -47,5 +47,24 @@ $(document).ready(function() {
   $("#argument").click(function() {
     $("#argument-def").fadeToggle();
   });
-  
+
+  $("#chaining").click(function() {
+    $("#chaining-def").fadeToggle();
+  });
+
+  $("#concat").click(function() {
+    $("#concat-def").fadeToggle();
+  });
+
+  $("#boolean").click(function() {
+    $("#boolean-def").fadeToggle();
+  });
+
+  $("#assignop").click(function() {
+    $("#assignop-def").fadeToggle();
+  });
+
+  $("#compop").click(function() {
+    $("#compop-def").fadeToggle();
+  });
 });
