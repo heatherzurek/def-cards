@@ -1,10 +1,4 @@
-# _jQuery Prac_
-
-#### _Hzurek, January 15, 2020_
-
 ## Description
-
-_Basic flashcards to practice built in jquery methods_
 
 ## Setup/Installation Requirements
 
@@ -20,7 +14,7 @@ n/a
 
 ## Technologies Used
 
-_JavaScript, jQuery, HTML, CSS_
+n/a
 
 ### License
 

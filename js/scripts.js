@@ -23,4 +23,8 @@ $(document).ready(function() {
   $("#argvsfunc").click(function() {
     $("#argvsfunc-def").fadeToggle();
   });
+
+  $("#arithmetic").click(function() {
+    $("#arithmetic-def").fadeToggle();
+  });
 });
