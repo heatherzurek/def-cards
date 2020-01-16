@@ -3,14 +3,22 @@ body {
   font-family: "Space Mono", monospace;
 }
 
-.main-box {
+.container {
   margin: 0 auto;
   margin-top: 5%;
+  text-align: center;
+  color: #ffffff;
+}
+
+.main-box {
+  margin: 0 auto;
   background-color: #29e3da;
+  color: #000000;
   padding: 20px;
-  width: 50%;
+  width: 75%;
   display: flex;
-  flex-direction: column;
+  flex-direction: flex-wrap;
+  flex-wrap: wrap;
   text-align: center;
   border-radius: 5px;
 }
@@ -24,6 +32,26 @@ body {
 }
 
 #eventhandler-def {
+  display: none;
+}
+
+#method-def {
+  display: none;
+}
+
+#return-def {
+  display: none;
+}
+
+#argument-def {
+  display: none;
+}
+
+#var-def {
+  display: none;
+}
+
+#string-def {
   display: none;
 }
 

@@ -27,4 +27,25 @@ $(document).ready(function() {
   $("#arithmetic").click(function() {
     $("#arithmetic-def").fadeToggle();
   });
+
+  $("#var").click(function() {
+    $("#var-def").fadeToggle();
+  });
+
+  $("#string").click(function() {
+    $("#string-def").fadeToggle();
+  });
+
+  $("#method").click(function() {
+    $("#method-def").fadeToggle();
+  });
+
+  $("#return").click(function() {
+    $("#return-def").fadeToggle();
+  });
+
+  $("#argument").click(function() {
+    $("#argument-def").fadeToggle();
+  });
+  
 });
