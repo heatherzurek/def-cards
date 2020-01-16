@@ -1,0 +1,42 @@
+body {
+  background-color: #171c26;
+  font-family: "Space Mono", monospace;
+}
+
+.main-box {
+  margin: 0 auto;
+  margin-top: 5%;
+  background-color: #29e3da;
+  padding: 20px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.box-1 {
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  margin: 5px;
+  padding: 5px;
+}
+
+#eventhandler-def {
+  display: none;
+}
+
+#callback-def {
+  display: none;
+}
+
+#uilogic-def {
+  display: none;
+}
+
+#argvsfunc-def {
+  display: none;
+}
+
+#bizlogic-def {
+  display: none;
+}
